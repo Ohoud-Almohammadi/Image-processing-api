@@ -1,4 +1,4 @@
-# image-processing-api-proje
+# image-processing-api-project
 
 In this project, I build Api can use in 2 different ways. First, set the image name, width, and height in the URL and it will return a message that the image resize successfully
 The second use is when an image with the required parameters already exists in the cache, it will return it without resizing it
